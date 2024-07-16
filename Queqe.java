@@ -1,0 +1,4 @@
+
+public class Queqe<T> {
+
+}
